@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @parthesaurabh1616
 - 👀 AI / ML Enthusiast
 - Very Passionate about the Gen AI
-- Developing various types of AI projects. 
+- Developing various types of AI projects.
+- AI Engineer
 - 📫 How to reach me saurabh.parthe.1@gmail.com
 
 
