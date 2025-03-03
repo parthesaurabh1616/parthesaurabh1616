@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @parthesaurabh1616
-- 👀 I’m interested in Data Science
-  
+- 👀 AI / ML Enthusiast
+- Very Passionate about the Gen AI
+- Developing various types of AI projects. 
 - 📫 How to reach me saurabh.parthe.1@gmail.com
 
 
